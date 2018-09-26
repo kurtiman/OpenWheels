@@ -1,0 +1,82 @@
+R1 ÷ R4, R7: 4.7 ohms (0805)
+R5, R6: 1 kohm (0805)
+R8, R9: 2.2 kohm (0805)
+R10: 47 kohm (0805)
+R11, R13 to R16, R19: 4.7 ohms (0805)
+R12: 33 kohm (0805)
+R17, R18: 1 kohm (0805)
+R20: 33 kohm (0805)
+R21, R26: 10 kohm (0805)
+R22 ÷ R25: 1 kohm (0805)
+R27, R28: 1 kohm (0805)
+C1, C2: 10 μF 35 VL electrolyte (B)
+C3 ÷ C5, C10: 100 nF ceramic (0805)
+C6, C9: 1000 μF 35 VL electrolyte
+C7, C8: 10 μF 25 VL tantalum (A)
+C11: 100 μF 35 VL electrolyte (F)
+C12: 220 μF 35 VL electrolyte (F)
+C13: 10 μF 35 VL electrolyte (B)
+C14 ÷ C17: 100 nF ceramic (0805)
+C18: 10 μF 35 VL electrolyte (B)
+C19: 100 nF ceramic (0805)
+C20: 10 μF 35 VL electrolyte (B)
+C21 ÷ C23: 100 nF ceramic (0805)
+C24, C27: 1000 μF 35 VL electrolyte
+C25, C26: 10 μF 25 VL tantalum (A)
+C28, C31: 100 nF ceramic (0805)
+C29, C30: 10 μF 35 VL electrolyte (B)
+C32: 10 μF 35 VL electrolyte (B)
+C33: 100 nF ceramic (0805)
+C34, C35: 10 pF ceramic (0805)
+C36, C39, C41, C43: 100 nF ceramic (0805)
+C37: 220 nF ceramic (0805)
+C38, C40: 10 μF 35 VL electrolyte (B)
+C40: 10 μF 35 VL electrolyte (B)
+C42: 3.3 nF ceramic (0805)
+C44: 10 μF 35 VL electrolyte (B)
+C45: 470 nF ceramic (0805)
+C46: 10 nF ceramic (0805)
+C47 ÷ C49: 100 nF ceramic (0805)
+C50: 3.3 nF ceramic (0805)
+C51: 10 μF 35 VL electrolyte (B)
+C52: 100 nF ceramic (0805)
+D1: GF1M
+D2 ÷ D6: BAT42W
+D7, D8: GF1M
+D8: GF1M
+T1: BC817
+T2: BC817
+T3 ÷ T10: AUIRF2804S
+Q1: 16 MHz quartz
+U1: ACS758LCB-050U-PFF
+U2: LM2576HVS-12 / NOPB
+U3: LM2937IMP-5.0 / NOPB
+U4 ÷ U7: IRS2184S
+U8: ATMEGA2560
+U9: LPY503AL
+U10: MMA7361
+U11: XBEE1MWCHIP
+U12: TC1262-3.3VDB
+U13: MPU6050 (GY-521)
+L1: Inductance 470 μH 850 mA
+F1: Fuse 1A
+F2, F3: 10A fuse
+LD1, LD2: green LED (0805)
+LD3 ÷ LD5: red LED (0805)
+LD6: yellow LED (0805)
+P1: microswitch
+Various:
+- CS fuse holder (3 pcs.)
+- 2 pole terminal block, 5 mm pitch
+- 2 pole terminal block 10 mm pitch (3 pcs.)
+- 2 poles male strip (2 pcs.)
+- 3 poles male strip (4 pcs.)
+- 4 poles male strip (6 pcs.)
+- 5-pole male strip (1 pc.)
+- 6-pole male strip (1 pc.)
+- 8-pole male strip (5 pcs.)
+- 5 poles female strip (4 pcs.)
+- 8 poles female strip (1 pc.)
+- 10 poles female strip 2 mm pitch (2 pcs.)
+- Jumper (2 pcs.)
+- Printed circuit board S1169
